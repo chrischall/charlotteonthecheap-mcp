@@ -1,5 +1,14 @@
 # Changelog
 
+## [0.4.2](https://github.com/chrischall/onthecheap-mcp/compare/v0.4.1...v0.4.2) (2026-09-10)
+
+
+### Bug Fixes
+
+* **deps:** @chrischall/mcp-utils 0.26.1 ([#78](https://github.com/chrischall/onthecheap-mcp/issues/78)) ([d477b18](https://github.com/chrischall/onthecheap-mcp/commit/d477b187894017952fc62db3341980ab944d3dda))
+* **deps:** Bump hono from 4.13.1 to 4.13.7 ([#76](https://github.com/chrischall/onthecheap-mcp/issues/76)) ([ae11aa9](https://github.com/chrischall/onthecheap-mcp/commit/ae11aa99558c6459f3ea91d4dd2876ca958c9540))
+* **deps:** declare the peer floors mcp-utils 0.26.1 requires ([#79](https://github.com/chrischall/onthecheap-mcp/issues/79)) ([c248642](https://github.com/chrischall/onthecheap-mcp/commit/c24864297c4931c2730c911b55c6636ffd5a1766))
+
 ## [0.4.1](https://github.com/chrischall/onthecheap-mcp/compare/v0.4.0...v0.4.1) (2026-09-04)
 
 
